@@ -1,0 +1,28 @@
+{
+  "_id": "CITA_1005",
+  "id_paciente": "20000001-K",
+  "id_medico": "15000001-K",
+  "id_centro": 1,
+  "id_especialidad": 2,
+  "fecha_hora": "2026-10-15T09:30:00Z",
+  "id_estado": 3,
+  
+  "atencion": {
+    "motivo": "Consulta médica por control/síntomas",
+    "observaciones": "Atención realizada ambulatoriamente conforme a protocolo.",
+    "diagnosticos": [
+      {
+        "id_diagnostico": 2,
+        "descripcion": "Hipertensión"
+      }
+    ],
+    "recetas": [
+      {
+        "id_medicamento": 3,
+        "nombre_medicamento": "Losartán 50mg",
+        "dosis": "1 comprimido cada 8 horas",
+        "dias_tratamiento": 7
+      }
+    ]
+  }
+}
