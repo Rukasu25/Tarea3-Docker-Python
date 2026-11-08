@@ -1,34 +1,34 @@
 [
     {
-        "id_especialidad": 2,
-        "nombre": "Cardiologia"
-    },
-    {
-        "id_especialidad": 4,
-        "nombre": "Dermatologia"
-    },
-    {
-        "id_especialidad": 8,
-        "nombre": "Ginecologia"
-    },
-    {
         "id_especialidad": 1,
         "nombre": "Medicina General"
     },
     {
-        "id_especialidad": 6,
-        "nombre": "Neurologia"
-    },
-    {
-        "id_especialidad": 7,
-        "nombre": "Oftalmologia"
+        "id_especialidad": 2,
+        "nombre": "Cardiología"
     },
     {
         "id_especialidad": 3,
-        "nombre": "Pediatria"
+        "nombre": "Pediatría"
+    },
+    {
+        "id_especialidad": 4,
+        "nombre": "Dermatología"
     },
     {
         "id_especialidad": 5,
-        "nombre": "Traumatologia"
+        "nombre": "Traumatología"
+    },
+    {
+        "id_especialidad": 6,
+        "nombre": "Neurología"
+    },
+    {
+        "id_especialidad": 7,
+        "nombre": "Oftalmología"
+    },
+    {
+        "id_especialidad": 8,
+        "nombre": "Ginecología"
     }
 ]
