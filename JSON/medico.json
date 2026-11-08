@@ -2,7 +2,6 @@
     {
         "id_medico": 1,
         "rut": "15000001-7",
-<<<<<<< HEAD
         "nombre": "Pedro",
         "apellido": "Araya",
         "email": "pedro.araya@saludusm.cl",
@@ -24,13 +23,5 @@
         "id_especialidades": [
             3
         ]
-=======
-        "nombre": "Ana",
-        "apellido": "Sepúlveda",
-        "email": "medico1@saludusm.cl",
-        "telefono": "987654321",
-        "sexo": "F",
-        "id_especialidades": []
->>>>>>> 2de01fc391032a8a305854ee6ea6b89057919cf0
     }
 ]
