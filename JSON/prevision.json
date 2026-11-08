@@ -1,0 +1,18 @@
+[
+    {
+        "id_prevision": 1,
+        "nombre": "Fonasa"
+    },
+    {
+        "id_prevision": 2,
+        "nombre": "Isapre"
+    },
+    {
+        "id_prevision": 4,
+        "nombre": "Otra"
+    },
+    {
+        "id_prevision": 3,
+        "nombre": "Particular"
+    }
+]

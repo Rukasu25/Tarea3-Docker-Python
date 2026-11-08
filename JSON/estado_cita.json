@@ -1,0 +1,22 @@
+[
+    {
+        "id_estado": 3,
+        "nombre": "Atendida"
+    },
+    {
+        "id_estado": 5,
+        "nombre": "Cancelada"
+    },
+    {
+        "id_estado": 2,
+        "nombre": "Confirmada"
+    },
+    {
+        "id_estado": 4,
+        "nombre": "No Asistio"
+    },
+    {
+        "id_estado": 1,
+        "nombre": "Reservada"
+    }
+]
