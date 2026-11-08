@@ -2,11 +2,26 @@
     {
         "id_medico": 1,
         "rut": "15000001-7",
+        "nombre": "Pedro",
+        "apellido": "Araya",
+        "email": "pedro.araya@saludusm.cl",
+        "telefono": "915000017",
+        "sexo": "M",
+        "id_especialidades": [
+            1,
+            2
+        ]
+    },
+    {
+        "id_medico": 2,
+        "rut": "16000002-8",
         "nombre": "Ana",
-        "apellido": "Sepúlveda",
-        "email": "medico1@saludusm.cl",
-        "telefono": "987654321",
+        "apellido": "Soto",
+        "email": "ana.soto@saludusm.cl",
+        "telefono": "916000028",
         "sexo": "F",
-        "id_especialidades": []
+        "id_especialidades": [
+            3
+        ]
     }
 ]

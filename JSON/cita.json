@@ -1,12 +1,133 @@
 [
     {
-        "id_cita": 9999,
+        "id_cita": 1,
+        "id_paciente": 1,
+        "id_medico": 1,
+        "id_especialidad": 2,
+        "id_centro": 1,
+        "fecha_hora": "2026-11-15 10:00:00",
+        "id_estado": 3,
+        "atencion": {
+            "motivo": "Dolor en el pecho",
+            "observaciones": "Paciente con hipertensión",
+            "diagnosticos": [
+                {
+                    "codigo_cie10": "I10",
+                    "descripcion": "Hipertensión esencial"
+                }
+            ],
+            "recetas": [
+                {
+                    "medicamento": "Losartán",
+                    "dosis": "50 mg cada 24 horas",
+                    "dias_tratamiento": 30
+                }
+            ]
+        }
+    },
+    {
+        "id_cita": 2,
+        "id_paciente": 2,
+        "id_medico": 1,
+        "id_especialidad": 1,
+        "id_centro": 2,
+        "fecha_hora": "2026-11-15 11:00:00",
+        "id_estado": 3,
+        "atencion": {
+            "motivo": "Control de presión",
+            "observaciones": "Presión 140/90",
+            "diagnosticos": [
+                {
+                    "codigo_cie10": "I10",
+                    "descripcion": "Hipertensión esencial"
+                }
+            ],
+            "recetas": [
+                {
+                    "medicamento": "Enalapril",
+                    "dosis": "10 mg cada 12 horas",
+                    "dias_tratamiento": 30
+                }
+            ]
+        }
+    },
+    {
+        "id_cita": 3,
         "id_paciente": 1,
         "id_medico": 1,
         "id_especialidad": 1,
         "id_centro": 1,
-        "fecha_hora": "2026-12-01 10:00:00",
-        "id_estado": 1,
-        "creada_en": "2026-11-08 18:00:10.534000"
+        "fecha_hora": "2026-11-16 10:00:00",
+        "id_estado": 3,
+        "atencion": {
+            "motivo": "Control general",
+            "observaciones": "Paciente estable",
+            "diagnosticos": [
+                {
+                    "codigo_cie10": "Z00.0",
+                    "descripcion": "Examen médico general"
+                }
+            ],
+            "recetas": [
+                {
+                    "medicamento": "Paracetamol",
+                    "dosis": "500 mg",
+                    "dias_tratamiento": 5
+                }
+            ]
+        }
+    },
+    {
+        "id_cita": 4,
+        "id_paciente": 1,
+        "id_medico": 2,
+        "id_especialidad": 3,
+        "id_centro": 3,
+        "fecha_hora": "2026-11-17 10:00:00",
+        "id_estado": 3,
+        "atencion": {
+            "motivo": "Control infantil",
+            "observaciones": "Paciente pediátrico",
+            "diagnosticos": [
+                {
+                    "codigo_cie10": "Z00.1",
+                    "descripcion": "Examen de salud infantil"
+                }
+            ],
+            "recetas": [
+                {
+                    "medicamento": "Amoxicilina",
+                    "dosis": "500 mg",
+                    "dias_tratamiento": 7
+                }
+            ]
+        }
+    },
+    {
+        "id_cita": 5,
+        "id_paciente": 2,
+        "id_medico": 1,
+        "id_especialidad": 1,
+        "id_centro": 1,
+        "fecha_hora": "2026-11-18 10:00:00",
+        "id_estado": 4
+    },
+    {
+        "id_cita": 6,
+        "id_paciente": 3,
+        "id_medico": 1,
+        "id_especialidad": 1,
+        "id_centro": 1,
+        "fecha_hora": "2026-11-19 10:00:00",
+        "id_estado": 4
+    },
+    {
+        "id_cita": 7,
+        "id_paciente": 3,
+        "id_medico": 1,
+        "id_especialidad": 1,
+        "id_centro": 1,
+        "fecha_hora": "2026-11-20 10:00:00",
+        "id_estado": 1
     }
 ]

@@ -1,72 +1,32 @@
 [
     {
         "id_paciente": 1,
-        "rut": "67890123-4",
-        "nombre": "skibidi",
-        "apellido": "miau",
-        "email": "pepa@gmail.com",
-        "telefono": "+56967676969",
-        "sexo": "F",
+        "rut": "11111111-1",
+        "nombre": "Juan",
+        "apellido": "Pérez",
+        "email": "juan@correo.cl",
+        "telefono": "911111111",
+        "sexo": "M",
         "id_prevision": 2
     },
     {
         "id_paciente": 2,
-        "rut": "55555555-5",
-        "nombre": "Juan",
-        "apellido": "Perez",
-        "email": "juan@correo.cl",
-        "telefono": "955555555",
-        "sexo": "M",
+        "rut": "22222222-2",
+        "nombre": "María",
+        "apellido": "López",
+        "email": "maria@correo.cl",
+        "telefono": "922222222",
+        "sexo": "F",
         "id_prevision": 1
     },
     {
         "id_paciente": 3,
-        "rut": "66666666-6",
-        "nombre": "Ana",
-        "apellido": "Gonzalez",
-        "email": "ana@correo.cl",
-        "telefono": "966666666",
-        "sexo": "F",
-        "id_prevision": 2
-    },
-    {
-        "id_paciente": 4,
-        "rut": "77777777-7",
-        "nombre": "Luis",
-        "apellido": "Martinez",
-        "email": "luis@correo.cl",
-        "telefono": "977777777",
-        "sexo": "M",
-        "id_prevision": 1
-    },
-    {
-        "id_paciente": 5,
-        "rut": "88888888-8",
-        "nombre": "Sofia",
-        "apellido": "Rojas",
-        "email": "sofia@correo.cl",
-        "telefono": "988888888",
-        "sexo": "F",
-        "id_prevision": 3
-    },
-    {
-        "id_paciente": 6,
-        "rut": "99999999-9",
-        "nombre": "Diego",
+        "rut": "33333333-3",
+        "nombre": "Carlos",
         "apellido": "Silva",
-        "email": "diego@correo.cl",
-        "telefono": "999999999",
+        "email": "carlos@correo.cl",
+        "telefono": "933333333",
         "sexo": "M",
-        "id_prevision": 1
-    },
-    {
-        "id_paciente": 7,
-        "rut": "10101010-1",
-        "nombre": "Camila",
-        "apellido": "Torres",
-        "email": "camila@correo.cl",
-        "telefono": "910101010",
-        "sexo": "F",
-        "id_prevision": 2
+        "id_prevision": 3
     }
 ]

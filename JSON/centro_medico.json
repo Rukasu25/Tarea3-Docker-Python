@@ -3,28 +3,28 @@
         "id_centro": 1,
         "codigo": "C001",
         "nombre": "Centro SaludUSM Casa Central",
-        "comuna": "Valparaiso",
-        "region": "Valparaiso"
+        "comuna": "Valparaíso",
+        "region": "Valparaíso"
     },
     {
         "id_centro": 2,
         "codigo": "C002",
-        "nombre": "Centro SaludUSM San Joaquin",
-        "comuna": "San Joaquin",
+        "nombre": "Centro SaludUSM San Joaquín",
+        "comuna": "San Joaquín",
         "region": "Metropolitana"
     },
     {
         "id_centro": 3,
         "codigo": "C003",
-        "nombre": "Centro SaludUSM Maipu",
-        "comuna": "Maipu",
+        "nombre": "Centro SaludUSM Maipú",
+        "comuna": "Maipú",
         "region": "Metropolitana"
     },
     {
         "id_centro": 4,
         "codigo": "C004",
-        "nombre": "Centro SaludUSM Concepcion",
-        "comuna": "Concepcion",
-        "region": "Biobio"
+        "nombre": "Centro SaludUSM Concepción",
+        "comuna": "Concepción",
+        "region": "Biobío"
     }
 ]
