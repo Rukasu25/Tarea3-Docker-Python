@@ -7,7 +7,18 @@ ROL: 202473624-8
 
 # Descripción
 Esta tarea implementa el sistema de gestión clinica SaludUSM utlizando MongoDB bajo una arquitectura distribuida (Replica Set) sobre contenedores de Docker. Los datos fueron migrados desde una base de datos MySQL relacional a un modelo orientado a documentos utilizando Python y Jupiter Notebook
+# Estructura
+deploy-[rol1]-[rol2].yml: Archivo Docker Compose para desplegar el clúster.
 
+pymongo-[rol1]-[rol2].ipynb: Jupyter Notebook con la migración, consultas y pruebas de replicación.
+
+JSON/: Carpeta con los respaldos .json de las colecciones resultantes.
+
+PDF/: Carpeta con el informe técnico y modelo documental.
+
+BD/: Carpeta con el script de origen MySQL (saludusm.sql / script_BD.sql) y los scripts .py de migración y exportación aislados.
+
+README.md: Este archivo de instrucciones (lo estas leyendo ahora mismo).
 # Requisitos
 1- Docker Desktop (Docker y Docker Compose) instalados y ejecutandose en segundo plano
 2- Python 3 con las librerias importadas pymongo y mysql-connector-python
