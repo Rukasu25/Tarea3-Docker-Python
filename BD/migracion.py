@@ -7,13 +7,13 @@ mysql_conn = mysql.connector.connect(
     host="localhost",
     user="root",
     password="",
-    database ="salud_usm")
+    database ="saludusm")
 
 mysql_cursor = mysql_conn.cursor(dictionary=True)
 
 uri = "mongodb://mongo1:30001,mongo2:30002,mongo3:30003/?replicaSet=rs0"
 mongo_client = MongoClient(uri, serverSelectionTimeoutMS=5000)
-db_mongo = mongo_client["salud_usm"]
+db_mongo = mongo_client["saludusm"]
 
 def convertir_fechas(doc):
     #convierte objetos datetime de MySQL a formato ISO para JSON/MongoDB

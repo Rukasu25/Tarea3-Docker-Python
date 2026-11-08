@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "id_cita": 1,
         "id_paciente": 1,
         "id_medico": 1,
@@ -129,5 +130,15 @@
         "id_centro": 1,
         "fecha_hora": "2026-11-20 10:00:00",
         "id_estado": 1
+=======
+        "id_cita": 9999,
+        "id_paciente": 1,
+        "id_medico": 1,
+        "id_especialidad": 1,
+        "id_centro": 1,
+        "fecha_hora": "2026-12-01 10:00:00",
+        "id_estado": 1,
+        "creada_en": "2026-11-08 18:00:10.534000"
+>>>>>>> 2de01fc391032a8a305854ee6ea6b89057919cf0
     }
 ]
